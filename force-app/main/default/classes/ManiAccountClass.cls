@@ -3,4 +3,9 @@ public with sharing class ManiAccountClass {
 
         return a+b;
     }
+    public integer sub(integer num1, integer num2){
+
+        return num1-num2;
+
+    }
 }
